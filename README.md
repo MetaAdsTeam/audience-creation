@@ -16,9 +16,9 @@
 ![Image](./media/1.png)
 ##
 
-* Enter *Name*
-* Enter *Describe*
-* Click on *Next Step* button
+* Enter *Name* (1)
+* Enter *Describe* (2)
+* Click on *Next Step* button (3)
 
 ![Image](./media/2.png)
 ##
@@ -43,23 +43,23 @@ As you noticed, when creating an **audience**, there is a choice of rules. There
 
 That is:
 
-**User transactions min** - the rule will work if  user has made at least transactions using current wallet.
+* **User transactions min** - the rule will work if  user has made at least transactions using current wallet.
 
-**User balance min** - the rule will work if user has at least ...ETH on wallet.
+* **User balance min** - the rule will work if user has at least ...*ETH* on wallet.
 
-**Average transaction min** - the rule will work if the average amount of user transactions is more than ...ETH.
+* **Average transaction min** - the rule will work if the average amount of user transactions is more than ...*ETH*.
 
-**First user transaction** - the rule will work if the user's first transaction was made more than days ago.
+* **First user transaction** - the rule will work if the user's first transaction was made more than days ago.
 
-**Last user transaction** - the rule will work if the user's last transaction was made less than days ago.
+* **Last user transaction** - the rule will work if the user's last transaction was made less than days ago.
 
-**Minimal transaction** - the rule will work if the minimal user transactions is greater than ...ETH.
+* **Minimal transaction** - the rule will work if the minimal user transactions is greater than ...*ETH*.
 
-**Maximum transaction** - the rule will work if the maximal user transactions is greater than ...ETH.
+* **Maximum transaction** - the rule will work if the maximal user transactions is greater than ...*ETH*.
 
-**User geo-position** - the rule will work if user watching content from chosen countries.
+* **User geo-position** - the rule will work if user watching content from chosen countries.
 
-**Usertoken balance min** - the rule will work if user has at least …tokens on wallet.
+* **Usertoken balance min** - the rule will work if user has at least …tokens on wallet.
 
 ![Image](./media/5.png)
 
