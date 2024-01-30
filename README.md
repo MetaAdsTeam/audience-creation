@@ -1,13 +1,13 @@
 # Audience Creation
 
 ## Introduction
-    This document is an instruction on how to work with audiences and how create it.
+This document is an instruction on how to work with *audiences* and how create it.
 
 ## 1. Opening the [**MetaAds**](https://metaads.team/main/) website
 
 * Connect
-* Click on **Advertiser** 
-* Click on **Audience**
+* Click on *Advertiser* 
+* Click on *Audience*
 
 ## 2. Creating an **Audience** with default rule
 
@@ -63,4 +63,4 @@ That is:
 
 ![Image](./media/5.png)
 
-    When creating a template, you can select several rules (by clicking the New Rule button) and select specific content for each of them, as shown in the example above.
+> When creating a template, you can select several rules (by clicking the *New Rule* button) and select specific content for each of them, as shown in the example above.
