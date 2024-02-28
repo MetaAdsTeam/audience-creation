@@ -39,27 +39,27 @@ This document is an instruction on how to work with *audiences* and how create i
 ![Image](./media/4.png)
 ## 3. About **Audiences**
 
-As you noticed, when creating an **audience**, there is a choice of rules. There are several of them: *User transactions min, User balance min, Average transaction min, First user transaction, Last user transaction, Minimal transaction, Maximum transaction, User geo-position, Usertoken balance min*. Selecting any rule from this list means that the **audience** is intended for specific users.
+As you noticed, when creating an **audience**, there is a choice of rules. There are several of them: *User transactions min, User balance min, Average transaction min, First user transaction, Last user transaction, Minimal transaction, Maximum transaction, User geo-position, User token balance min*. Selecting any rule from this list means that the **audience** is intended for specific users.
 
 That is:
 
 * **User transactions min** - the rule will work if  user has made at least transactions using current wallet.
 
-* **User balance min** - the rule will work if user has at least ...*ETH* on wallet.
+* **User balance min** - the rule will work if user has at least ... *ETH* on wallet.
 
-* **Average transaction min** - the rule will work if the average amount of user transactions is more than ...*ETH*.
+* **Average transaction min** - the rule will work if the average amount of user transactions is more than ... *ETH*.
 
 * **First user transaction** - the rule will work if the user's first transaction was made more than days ago.
 
 * **Last user transaction** - the rule will work if the user's last transaction was made less than days ago.
 
-* **Minimal transaction** - the rule will work if the minimal user transactions is greater than ...*ETH*.
+* **Minimal transaction** - the rule will work if the minimal user transactions is greater than ... *ETH*.
 
-* **Maximum transaction** - the rule will work if the maximal user transactions is greater than ...*ETH*.
+* **Maximum transaction** - the rule will work if the maximal user transactions is greater than ... *ETH*.
 
 * **User geo-position** - the rule will work if user watching content from chosen countries.
 
-* **Usertoken balance min** - the rule will work if user has at least …tokens on wallet.
+* **User token balance min** - the rule will work if user has at least … tokens on wallet.
 
 ![Image](./media/5.png)
 
